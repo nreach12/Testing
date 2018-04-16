@@ -6,8 +6,28 @@
 	<dict>
 		<key>Maps.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>019F38DD20842301006E1991</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>019F38F12084230E006E1991</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>019F38FC2084230E006E1991</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
