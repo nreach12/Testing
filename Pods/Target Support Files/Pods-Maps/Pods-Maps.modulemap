@@ -1,0 +1,6 @@
+module Pods_Maps [system] {
+  umbrella header "Pods-Maps-umbrella.h"
+
+  export *
+  module * { export * }
+}
